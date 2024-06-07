@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me https://www.fiverr.com/users/lahirulahiru840/seller_dashboard
+- 📫 How to reach me https://www.fiverr.com/lahirulahiru840?public_mode=true
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
